@@ -3,9 +3,6 @@
 ## Video
 https://www.youtube.com/watch?v=VdWj1k_HQ0g
 
-## Evidencias
-[PDF con las capturas del proceso](docs/Evidencias_Proyecto_Final_Computacion_Avanzada.pdf)
-
 ## Documento del proyecto
 [PDF del proyecto final](Proyecto_final_CA_Julian_Ramirez_Molina.pdf)
 
